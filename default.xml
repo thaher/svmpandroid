@@ -37,6 +37,6 @@
 <!--     <project path="external/mesa3d" remote="github" revision="svmp-2.x" name="SVMP/android_external_mesa3d" /> -->
 <!--     <project path="external/llvm" remote="github" revision="svmp-2.x" name="SVMP/android_external_llvm" groups="pdk" /> --> -->
    <!--<project path="hardware/intel/hwcomposer" remote="github" revision="release/android-4.2.2_r1-ia3" name="android-ia/hardware_intel_hwcomposer" /> -->
-<!--   <project path="hardware/intel/hwcomposer" revision="android-5.0.0_r2"  name="platform/hardware/intel/img/hwcomposer" /> -->
+   <project path="hardware/intel/hwcomposer" revision="android-5.0.0_r2"  name="platform/hardware/intel/img/hwcomposer" /> 
 
 </manifest>
